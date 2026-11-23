@@ -14,7 +14,7 @@ from org.telegram.tgnet.tl import TL_stars
 from org.telegram.messenger import MessageObject
 from org.telegram.ui.Stars import StarsController
 
-__id__ = "fake_gifts_visual"
+__id__ = "Mode"
 __name__ = "Fake Gifts & Stars"
 __description__ = "Визуальные фейк-подарки, фейк-баланс звёзд и фейк-список подарков. Только локально, для развлечения."
 __author__ = "you"
